@@ -1,0 +1,14 @@
+.button {
+  margin-top: 5px;
+  font-family: 'Montserrat', sans-serif;}
+.container {
+  text-align: center;
+  margin: 1em;
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+  font-family: 'Montserrat', sans-serif;}
+.result-container {
+  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
